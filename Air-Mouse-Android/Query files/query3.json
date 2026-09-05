@@ -1,0 +1,17 @@
+[
+  {
+    "Sensor_Task": "AirMouse_Gyro",
+    "Total_CPU_Time_ms": "517.874033",
+    "Avg_Time_Per_Execution_ms": "1.0766611912681912"
+  },
+  {
+    "Sensor_Task": "AirMouse_Accel",
+    "Total_CPU_Time_ms": "333.686118",
+    "Avg_Time_Per_Execution_ms": "0.6937341330561331"
+  },
+  {
+    "Sensor_Task": "AirMouse_Magneto",
+    "Total_CPU_Time_ms": "188.888974",
+    "Avg_Time_Per_Execution_ms": "0.3927005696465697"
+  }
+]

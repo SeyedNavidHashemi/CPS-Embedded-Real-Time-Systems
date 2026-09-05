@@ -1,0 +1,26 @@
+[
+  {
+    "name": "AirMouse_Accel",
+    "Total_Samples": "480",
+    "Average_Sampling_Period_ms": "20.61175727708333",
+    "Average_Frequency_Hz": "48.515999221076854",
+    "Min_Delta_ms": "13.123962",
+    "Max_Delta_ms": "29.046769"
+  },
+  {
+    "name": "AirMouse_Gyro",
+    "Total_Samples": "480",
+    "Average_Sampling_Period_ms": "20.611459441666668",
+    "Average_Frequency_Hz": "48.51670027686011",
+    "Min_Delta_ms": "13.527346",
+    "Max_Delta_ms": "27.172346"
+  },
+  {
+    "name": "AirMouse_Magneto",
+    "Total_Samples": "480",
+    "Average_Sampling_Period_ms": "20.612367772916667",
+    "Average_Frequency_Hz": "48.514562277213784",
+    "Min_Delta_ms": "12.712808",
+    "Max_Delta_ms": "29.232231"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "Thread_Name": "GPU completion",
+    "State": "S",
+    "Total_Duration_ms": "1733.872727"
+  },
+  {
+    "Thread_Name": "GPU completion",
+    "State": "R",
+    "Total_Duration_ms": "2.426539"
+  },
+  {
+    "Thread_Name": "GPU completion",
+    "State": "Running",
+    "Total_Duration_ms": "1.805693"
+  },
+  {
+    "Thread_Name": "GPU completion",
+    "State": "R+",
+    "Total_Duration_ms": "0.093654"
+  },
+  {
+    "Thread_Name": "Jit thread pool",
+    "State": "S",
+    "Total_Duration_ms": "8836.089431"
+  },
+  {
+    "Thread_Name": "Jit thread pool",
+    "State": "Running",
+    "Total_Duration_ms": "539.472985"
+  },
+  {
+    "Thread_Name": "Jit thread pool",
+    "State": "R",
+    "Total_Duration_ms": "514.143537"
+  },
+  {
+    "Thread_Name": "Jit thread pool",
+    "State": "R+",
+    "Total_Duration_ms": "12.259808"
+  },
+  {
+    "Thread_Name": "Profile Saver",
+    "State": "S",
+    "Total_Duration_ms": "9775.090222"
+  },
+  {
+    "Thread_Name": "Profile Saver",
+    "State": "R",
+    "Total_Duration_ms": "16.568848"
+  },
+  {
+    "Thread_Name": "Profile Saver",
+    "State": "Running",
+    "Total_Duration_ms": "8.383037"
+  },
+  {
+    "Thread_Name": "Profile Saver",
+    "State": "R+",
+    "Total_Duration_ms": "0.273539"
+  },
+  {
+    "Thread_Name": "RenderThread",
+    "State": "S",
+    "Total_Duration_ms": "8432.139725"
+  },
+  {
+    "Thread_Name": "RenderThread",
+    "State": "Running",
+    "Total_Duration_ms": "1160.64661"
+  },
+  {
+    "Thread_Name": "RenderThread",
+    "State": "R",
+    "Total_Duration_ms": "297.861156"
+  },
+  {
+    "Thread_Name": "RenderThread",
+    "State": "R+",
+    "Total_Duration_ms": "12.969962"
+  },
+  {
+    "Thread_Name": "binder:26042_4",
+    "State": "R",
+    "Total_Duration_ms": "0.032"
+  },
+  {
+    "Thread_Name": "binder:26042_4",
+    "State": "Running",
+    "Total_Duration_ms": "0.014307"
+  },
+  {
+    "Thread_Name": "binder:26042_4",
+    "State": "S",
+    "Total_Duration_ms": "-0.000001"
+  },
+  {
+    "Thread_Name": "binder:26042_5",
+    "State": "S",
+    "Total_Duration_ms": "9153.540109"
+  },
+  {
+    "Thread_Name": "binder:26042_5",
+    "State": "R",
+    "Total_Duration_ms": "12.238616"
+  },
+  {
+    "Thread_Name": "binder:26042_5",
+    "State": "Running",
+    "Total_Duration_ms": "4.32496"
+  },
+  {
+    "Thread_Name": "binder:26042_6",
+    "State": "S",
+    "Total_Duration_ms": "7435.54919"
+  },
+  {
+    "Thread_Name": "binder:26042_6",
+    "State": "Running",
+    "Total_Duration_ms": "21.687074"
+  },
+  {
+    "Thread_Name": "binder:26042_6",
+    "State": "R",
+    "Total_Duration_ms": "9.365076"
+  },
+  {
+    "Thread_Name": "binder:26042_6",
+    "State": "R+",
+    "Total_Duration_ms": "0.222846"
+  },
+  {
+    "Thread_Name": "binder:26042_7",
+    "State": "S",
+    "Total_Duration_ms": "9150.269799"
+  },
+  {
+    "Thread_Name": "binder:26042_7",
+    "State": "Running",
+    "Total_Duration_ms": "21.464927"
+  },
+  {
+    "Thread_Name": "binder:26042_7",
+    "State": "R",
+    "Total_Duration_ms": "10.787346"
+  },
+  {
+    "Thread_Name": "binder:26042_7",
+    "State": "R+",
+    "Total_Duration_ms": "1.940882"
+  },
+  {
+    "Thread_Name": "mali-cmar-backe",
+    "State": "S",
+    "Total_Duration_ms": "9041.150148"
+  },
+  {
+    "Thread_Name": "mali-cmar-backe",
+    "State": "Running",
+    "Total_Duration_ms": "84.365574"
+  },
+  {
+    "Thread_Name": "mali-cmar-backe",
+    "State": "R",
+    "Total_Duration_ms": "30.892306"
+  },
+  {
+    "Thread_Name": "mali-cmar-backe",
+    "State": "R+",
+    "Total_Duration_ms": "6.059808"
+  },
+  {
+    "Thread_Name": "mali-cmar-backe",
+    "State": "D",
+    "Total_Duration_ms": "0.90181"
+  },
+  {
+    "Thread_Name": "mali-mem-purge",
+    "State": "S",
+    "Total_Duration_ms": "9705.667956"
+  },
+  {
+    "Thread_Name": "mali-mem-purge",
+    "State": "Running",
+    "Total_Duration_ms": "62.630157"
+  },
+  {
+    "Thread_Name": "mali-mem-purge",
+    "State": "R",
+    "Total_Duration_ms": "25.003187"
+  },
+  {
+    "Thread_Name": "mali-mem-purge",
+    "State": "R+",
+    "Total_Duration_ms": "0.151"
+  },
+  {
+    "Thread_Name": "pool-10-thread-",
+    "State": "S",
+    "Total_Duration_ms": "8746.255982"
+  },
+  {
+    "Thread_Name": "pool-10-thread-",
+    "State": "Running",
+    "Total_Duration_ms": "968.48904"
+  },
+  {
+    "Thread_Name": "pool-10-thread-",
+    "State": "R",
+    "Total_Duration_ms": "135.543006"
+  },
+  {
+    "Thread_Name": "pool-10-thread-",
+    "State": "R+",
+    "Total_Duration_ms": "44.85381"
+  },
+  {
+    "Thread_Name": "pool-10-thread-",
+    "State": "D",
+    "Total_Duration_ms": "0.883077"
+  },
+  {
+    "Thread_Name": "xample.airmouse",
+    "State": "S",
+    "Total_Duration_ms": "6150.16818"
+  },
+  {
+    "Thread_Name": "xample.airmouse",
+    "State": "Running",
+    "Total_Duration_ms": "3043.650511"
+  },
+  {
+    "Thread_Name": "xample.airmouse",
+    "State": "R",
+    "Total_Duration_ms": "687.426726"
+  },
+  {
+    "Thread_Name": "xample.airmouse",
+    "State": "R+",
+    "Total_Duration_ms": "24.587345"
+  }
+]
